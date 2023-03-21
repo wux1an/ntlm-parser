@@ -3,8 +3,6 @@
 📑 A library that parses ntlm information   
 📝 Rewritten from https://github.com/jlguenego/ntlm-parser library in Golang
 
-[Demo: ntlm-parser-cli](https://github.com/wux1an/ntlm-parser-cli/releases)
-
 ## Usage
 
 ```
