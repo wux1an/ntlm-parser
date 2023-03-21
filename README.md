@@ -8,7 +8,7 @@
 ## Usage
 
 ```
-go get https://github.com/jlguenego/ntlm-parser
+go get https://github.com/wux1an/ntlm-parser
 ```
 
 ```go
